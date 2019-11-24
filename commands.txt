@@ -28,3 +28,4 @@ commit-
 Main Branch= "Master"
 Create Branch= git branch branch name
 Switch Branch= git checkout branch name
+Merge 2 branches= git merge branch name
