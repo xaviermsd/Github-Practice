@@ -1,5 +1,5 @@
 git init- initiliaze the directory
-ls -lart show hidden folders
+lcommc s -lart show hidden folders
 git add - take my files to staging area
 git add-A add all files
 git commit
@@ -7,9 +7,10 @@ git commit name.fileName
 git commit -m "your msg"
 git checkout "filename"
 git checkout -f for all restore the files
-git restore --fileName
+git restorecomco --fileName
 git log -p -1
 git diff = "Shows diffrences from working tree"
+git commit -a -m "Changed all files"
 q= to quit
 Initial commit
 esc+:wq to exitgit 
