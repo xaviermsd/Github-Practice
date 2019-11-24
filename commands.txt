@@ -14,9 +14,17 @@ git commit -a -m "Changed all files"
 git rm --cached - removes from staging area only..removed from commit and make it tracked
 git rm "Waste.html" removed from folder and branch
 git status -s cheeck all the things
+git .gitignore - ignore files for adding and commit
+git "Write name of file" in .gitignore and also to remove all files *.log
+Ingore git *.(Extension name) / for folder
 q= to quit
 Initial commit
 esc+:wq to exitgit 
 untracked-
 staging area-
 commit- 
+
+//Branches
+Main Branch= "Master"
+Create Branch= git branch branch name
+Switch Branch= git checkout branch name
