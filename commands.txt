@@ -9,6 +9,7 @@ git checkout "filename"
 git checkout -f for all restore the files
 git restore --fileName
 git log -p -1
+git diff = "Shows diffrences from working tree"
 q= to quit
 Initial commit
 esc+:wq to exitgit 
