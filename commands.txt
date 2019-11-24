@@ -39,4 +39,4 @@ Access remote repository git remote
 Fetch Push links= git remote -v
 local repository to origin repository= git push origin "repository name"
 Genrate SSH Key= Setting of Github.com  
-cat ~/.ssh/id_rsa
+clip < ~/.ssh/id_rsa.pub 
