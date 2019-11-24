@@ -11,6 +11,8 @@ git restorecomco --fileName
 git log -p -1
 git diff = "Shows diffren       qces from working tree"
 git commit -a -m "Changed all files"
+git rm --cached
+git rm "Waste.html"
 q= to quit
 Initial commit
 esc+:wq to exitgit 
