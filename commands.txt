@@ -8,6 +8,7 @@ git commit -m "your msg"
 git checkout "filename"
 git checkout -f for all restore the files
 git restore --fileName
+q= to quit
 Initial commit
 esc+:wq to exitgit 
 untracked-
