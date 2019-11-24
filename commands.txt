@@ -38,4 +38,5 @@ Add remote repository= git remote add origin "Repository link"
 Access remote repository git remote
 Fetch Push links= git remote -v
 local repository to origin repository= git push origin "repository name"
-Genrate SSH Key= Setting of Github.com
+Genrate SSH Key= Setting of Github.com  
+Good Practice
