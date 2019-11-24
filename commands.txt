@@ -11,11 +11,12 @@ git restore --fileName
 git log -p -1
 git diff = "Shows diffren       qces from working tree"
 git commit -a -m "Changed all files"
-git rm --cached - removed from commit and make it tracked
+git rm --cached - removes from staging area only..removed from commit and make it tracked
 git rm "Waste.html" removed from folder and branch
+git status -s cheeck all the things
 q= to quit
 Initial commit
 esc+:wq to exitgit 
 untracked-
 staging area-
-commit-
+commit- 
