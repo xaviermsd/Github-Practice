@@ -7,12 +7,12 @@ git commit name.fileName
 git commit -m "your msg"
 git checkout "filename"
 git checkout -f for all restore the files
-git restorecomco --fileName
+git restore --fileName
 git log -p -1
 git diff = "Shows diffren       qces from working tree"
 git commit -a -m "Changed all files"
-git rm --cached
-git rm "Waste.html"
+git rm --cached - removed from commit and make it tracked
+git rm "Waste.html" removed from folder and branch
 q= to quit
 Initial commit
 esc+:wq to exitgit 
