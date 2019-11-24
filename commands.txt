@@ -1,3 +1,4 @@
+code . open vs code
 git init- initiliaze the directory
 lcommc s -lart show hidden folders
 git add - take my files to staging area
