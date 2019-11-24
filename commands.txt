@@ -5,6 +5,8 @@ git add-A add all files
 git commit
 git commit name.fileName
 git commit -m "your msg"
+git checkout "filename"
+git checkout -f for all restore the files
 git restore --fileName
 Initial commit
 esc+:wq to exitgit 
