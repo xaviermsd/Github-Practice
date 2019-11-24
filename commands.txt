@@ -9,7 +9,7 @@ git checkout "filename"
 git checkout -f for all restore the files
 git restorecomco --fileName
 git log -p -1
-git diff = "Shows diffrences from working tree"
+git diff = "Shows diffren       qces from working tree"
 git commit -a -m "Changed all files"
 q= to quit
 Initial commit
